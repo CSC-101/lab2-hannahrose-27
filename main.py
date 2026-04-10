@@ -7,6 +7,6 @@ def welcome_message(name:str) -> str:
    return message
 
 
-message = welcome_message("hra tliff@calpoly.edu")
+message = welcome_message("hratliff@calpoly.edu")
 print(message)
 
